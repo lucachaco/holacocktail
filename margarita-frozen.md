@@ -2,7 +2,7 @@
 - 2 oz Tequila
 - 1 oz Triple Sec
 - 6 oz Sour Mix
-- 1 gota Colorante Verde (optional)
+- 1 drop of green colorant (optional)
 
 ## Glass
 - Schooner glass 20 oz full of ice.
