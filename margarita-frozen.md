@@ -1,4 +1,4 @@
-# Margarita
+# Margarita Frozen
 - 2 oz Tequila
 - 1 oz Triple Sec
 - 6 oz Sour Mix
