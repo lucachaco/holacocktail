@@ -12,4 +12,4 @@
 - Lemon slice
 
 ## Technique
-
+Blend everything with the ice from the glass.
