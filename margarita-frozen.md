@@ -5,7 +5,7 @@
 - 1 gota Colorante Verde (optional)
 
 ## Glass
-- Shooner 20 oz full of ice.
+- Schooner glass 20 oz full of ice.
 
 ## Decoration
 - Salt rim
