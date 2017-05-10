@@ -1,17 +1,16 @@
 # Cocktails 
-## Blue Lagoon
-- 1½ oz Vodka
-- 1 oz Blue Curacao
-- 4 oz Sprite
+## Blue Lagoon 
+| ------------- |:--------------------------| 
+| Ingredients   | 1½ oz Vodka               | 
+|               | 1 oz Blue Curacao         | 
+|               | 4 oz Sprite               | 
+| Glass         | High Ball 11oz            | 
+| Decoration    | Cherry and cuña de limón  | 
+| Technique     | Directa                   | 
 
-### Glass
-- High Ball 11oz
 
-### Decoration
-- Cherry and cuña de limón
 
-### Technique
-- Directa
+
 
 ## Margarita Frozen
 - 2 oz Tequila
