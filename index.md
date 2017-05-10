@@ -1,5 +1,6 @@
 # Cocktails 
 ## Blue Lagoon 
+|               |                           |
 | ------------- |:--------------------------| 
 | Ingredients   | 1½ oz Vodka               | 
 |               | 1 oz Blue Curacao         | 
