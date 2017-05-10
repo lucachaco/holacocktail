@@ -1,30 +1,31 @@
-# Blue Lagoon
+# Cocktails 
+## Blue Lagoon
 - 1½ oz Vodka
 - 1 oz Blue Curacao
 - 4 oz Sprite
 
-## Glass
+### Glass
 - High Ball 11oz
 
-## Decoration
+### Decoration
 - Cherry and cuña de limón
 
-## Technique
+### Technique
 - Directa
 
-# Margarita Frozen
+## Margarita Frozen
 - 2 oz Tequila
 - 1 oz Triple Sec
 - 6 oz Sour Mix
 - 1 drop of green colorant (optional)
 
-## Glass
+### Glass
 - Schooner glass 20 oz full of ice.
 
-## Decoration
+### Decoration
 - Salt rim
 - Lemon slice
 
-## Technique
+### Technique
 Blend everything with the ice from the glass.
 
